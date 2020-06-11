@@ -1,0 +1,15 @@
+/* Global Styles */
+
+/* Navigation */
+
+/* Hero */
+
+.jumbotron {
+    background-image: url("../images/panels.jpg");
+    background-size: cover;
+}
+
+.jumbo-wrap {
+    color: #fff;
+    width: 90%;
+}
